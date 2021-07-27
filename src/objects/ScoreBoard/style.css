@@ -1,0 +1,9 @@
+.score-board {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+
+}
+
+/* Rem nesse projeto tá valendo 10px.
