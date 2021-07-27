@@ -2,5 +2,7 @@
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
+    justify-content: space-evenly;
 }
+/* Gap é o espaço que temos entre os elementos quando usamos o display flex.
 
