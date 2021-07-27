@@ -1,7 +1,7 @@
 import PlayerName from "../../components/PlayerName";
 import './style.css';
 
-function Scoreboard () {
+function ScoreBoard () {
     
     return /*html*/`
         <header class="score-board">
@@ -11,4 +11,4 @@ function Scoreboard () {
     `;
 }
 
-export default Scoreboard;
+export default ScoreBoard;
