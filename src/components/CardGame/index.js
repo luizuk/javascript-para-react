@@ -12,3 +12,5 @@ function CardGame (icon = 'alura-pixel', alt = 'Logo da Alura') {
 }
 
 export default CardGame;
+
+//Definir o valor padrão é conhecido como callback.

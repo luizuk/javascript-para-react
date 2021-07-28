@@ -3,6 +3,8 @@
     flex-wrap: wrap;
     gap: 20px;
     justify-content: space-evenly;
+    perspective: 500px;
 }
 /* Gap é o espaço que temos entre os elementos quando usamos o display flex.
 
+Perspectiva tem que ser colocada no elemento pai ao que você está rotacionando.
